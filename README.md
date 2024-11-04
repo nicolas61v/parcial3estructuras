@@ -1,4 +1,5 @@
 # Guía de Ejecución - Métodos de Simpson con OpenMP
+link Google Colab [https://colab.research.google.com/drive/1lh0l1OoPSyPEJ77qccs_UYAQPmFJ9RFK?usp=sharing]
 
 ## Estudiantes
 - Adyuer
