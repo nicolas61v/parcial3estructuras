@@ -13,10 +13,10 @@ link Google Colab [https://colab.research.google.com/drive/1lh0l1OoPSyPEJ77qccs_
 
 2. **Configurar el entorno**
    - En el menú desplegable de lenguajes, seleccionar "C"
-   - Importante: ¡NO seleccionar C++!
+   - Importante: NO seleccionar C++
 
 3. **Copiar el código**
-   - Copiar todo el contenido del archivo `simpson_methods.c` 
+   - Copiar todo el contenido del archivo del ultimo bloque de codigo en google coolab ya que en github no se alcanza a apreciar la diferencia entre ellos 
    - Pegarlo en el editor de mycompiler.io
    - Asegurarse de que todo el código se copió correctamente, incluyendo los includes del principio
 
